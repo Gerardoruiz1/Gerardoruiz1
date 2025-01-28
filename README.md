@@ -17,6 +17,6 @@ An ambitious Second Year, proudly studying Software Engineering at University of
 
 ## 📫 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/gerardo-ruiz-6025a3294/)  
-## 🚀 Check out my Project: [Project Name](https://github.com/Gerardoruiz1/Coronavirus-App)
+## 🚀 Check out my Project: [COVID-19 Data Visualization](https://github.com/Gerardoruiz1/Coronavirus-App)
 
 ---
