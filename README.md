@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, World! 👋 I'm Gerardo Ruiz.
 
-<!--
-**Gerardoruiz1/Gerardoruiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An ambitious Second Year, proudly studying Software Engineering at University of Puerto Rico Mayagüez!
 
-Here are some ideas to get you started:
+![Software Development](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me  
+🎯 Passionate about Software Engineering & Problem-Solving  
+💡 Constantly learning and exploring new technologies  
+💻 Interested in AI, Web Development, and Open Source  
+
+## 🛠 Tech Stack  
+🔹 **Languages**: Python, JavaScript, C++  
+🔹 **Frameworks**: Angular, Node.js, Flutter  
+🔹 **Tools**: Git, Jmeter, VS Code  
+
+## 📫 Connect with Me  
+🔗 [LinkedIn](https://www.linkedin.com/in/gerardo-ruiz-6025a3294/)  
+
+---
