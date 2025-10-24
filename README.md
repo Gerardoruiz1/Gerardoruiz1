@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Gerardo Ruiz.
 
-An ambitious Third Year, studying Software Engineering at University of Puerto Rico Mayagüez!
+Undergrad Software Engineering at University of Puerto Rico Mayagüez!
 
 ![Software Development](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
